@@ -1,0 +1,33 @@
+.one {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.one {
+    float: left;
+    background: red;
+    height: 200px;
+    width: 33.33%;
+    border: 2px solid black;
+    margin: 2px
+}
+
+.two {
+    float: left;
+    background: blue;
+    height: 200px;
+    width: 33.33%;
+    border: 2px solid red;
+    margin: 2px;
+    padding-bottom: 0;
+}
+
+.three {
+    float: left;
+    background: green;
+    height: 200px;
+    width: 33.33%;
+    border: 2px solid blue;
+    margin: 2px;
+}

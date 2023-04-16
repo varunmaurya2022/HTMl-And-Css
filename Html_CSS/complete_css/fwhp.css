@@ -1,0 +1,42 @@
+/* obsolute Measurement /value */
+
+h1 {
+    font-size: 60px;
+    width: 200px;
+    height: 300px;
+    background: red;
+}
+
+
+/* 
+Relative Value -->percents */
+
+.outer {
+    width: 200px;
+    height: 200px;
+    background: red;
+}
+
+.inner {
+    width: 50%;
+    height: 50%;
+    background: blue;
+}
+
+
+/* em-Relative depepneds on parent
+1em=16px default browser style;
+1em=base value */
+
+.relative {
+    font-size: 2em;
+}
+
+.absolute {
+    font-size: 32px;
+    ;
+}
+
+
+/* rem-Relative depepneds on parent
+1rem=16px default browser on root;*/

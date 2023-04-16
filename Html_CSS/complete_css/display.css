@@ -1,0 +1,22 @@
+/* display
+block =>Always start a new line and takes full width
+inline =>Does not start and only take up as much as content space. 
+inline-block 
+box-sizing:border box */
+
+.body {
+    text-align: center;
+}
+
+.block {
+    background: blue;
+    color: #fff;
+    width: 150px;
+    margin: 20px auto;
+}
+
+.inline {
+    background: red;
+    color: #fff;
+    text-decoration: none;
+}

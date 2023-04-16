@@ -1,0 +1,42 @@
+body {
+    background: yellow;
+}
+
+.banner {
+    background: blue;
+}
+
+h1 {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+@media screen and (min-width:576px) {
+    body {
+        background: red;
+    }
+    .banner {
+        background: yellow;
+    }
+    h1 {
+        color: black;
+        font-size: 60px;
+    }
+}
+
+@media screen and (min-width:800px) {
+    body {
+        background: green;
+    }
+    .banner {
+        background: red;
+    }
+    h1 {
+        color: blue;
+        font-size: 60px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+    }
+}

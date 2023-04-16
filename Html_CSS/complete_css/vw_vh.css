@@ -1,0 +1,20 @@
+/* vh - height->Percent of the screen 
+vw - width -> Percent of the screen */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner {
+    width: 50vw;
+    height: 50vh;
+    background: red;
+}
+
+.header {
+    width: 100vw;
+    height: 100vh;
+    background: blue;
+}

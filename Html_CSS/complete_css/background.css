@@ -1,0 +1,21 @@
+div {
+    height: 400px;
+    color: red;
+}
+
+div {
+    height: 200px;
+    color: blue;
+}
+
+.build-img {
+    background: url("/images/build.jpeg");
+}
+
+.notation-img {
+    background: url(/images/notation.jpeg);
+}
+
+.store {
+    background: url("/images/store.jpeg");
+}

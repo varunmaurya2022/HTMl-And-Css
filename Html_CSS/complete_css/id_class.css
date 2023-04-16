@@ -1,0 +1,33 @@
+#title {
+    color: green;
+    background: black;
+}
+
+#subheading {
+    color: red;
+    background: grey;
+}
+
+.red {
+    color: red;
+    background: green;
+}
+
+.olive {
+    color: olive;
+    background: red;
+}
+
+.blue {
+    color: blue;
+    background: olive;
+}
+
+.orange {
+    color: orange;
+    background: blue;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}

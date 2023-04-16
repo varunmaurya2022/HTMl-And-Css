@@ -1,0 +1,27 @@
+div {
+    color: red;
+    background: grey;
+}
+
+h2 {
+    color: blue;
+}
+
+span {
+    text-transform: uppercase;
+    color: blue;
+}
+
+h3 {
+    color: aqua;
+}
+
+.green {
+    color: green;
+    background-color: red;
+}
+
+.orange {
+    color: orange;
+    background: antiquewhite;
+}
